@@ -1,0 +1,16 @@
+{
+  "name": "chaianddeployed",
+  "version": "1.0.0",
+  "description": "a backened at chai or code - youtube channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backened",
+    "chai"
+  ],
+  "author": "Himanshu verma",
+  "license": "ISC"
+}
